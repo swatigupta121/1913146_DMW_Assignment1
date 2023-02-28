@@ -14,7 +14,7 @@ B,C,D so on..
 
 For uploading csv file, We have used following method:
 
-df=pd.read_csv(io.BytesIO(uploaded['basket_data.csv']),header=None)
+df=pd.read_csv(io.BytesIO(uploaded['dataset.csv']),header=None)
 
 Here, enter the csv file name in the method or rename the csv file name as dataset.csv.
 
