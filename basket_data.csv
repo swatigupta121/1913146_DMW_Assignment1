@@ -1,0 +1,10 @@
+﻿Handphone,Laptop,,
+Handphone,Charger ,Laptop,
+Powerbank,Laptop,Charger,Handphone
+Tablet,Laptop,Handphone,
+Handphone,Charger ,Tablet,
+Tablet,Powerbank,,
+Handphone,Laptop,Tablet,Charger
+Charger,Handphone,,
+Handphone,Powerbank,,
+Laptop,Charger ,Powerbank,
